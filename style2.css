@@ -1,0 +1,14 @@
+table{
+    font-size: 48px;
+    font-weight: bold;
+    border-width: 10px;
+    border-style: outset;
+    border-spacing: 7px;
+    margin: 10px auto;
+    width: min-content;
+}
+table th, table, td{
+    text-align: center;
+    border-width: 10px;
+    border-style: outset;
+}
