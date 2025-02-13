@@ -1,6 +1,6 @@
 
 <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=Iskander229&show_icons=true&theme=dark"/>  
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iskander229&layout=compact&theme=dark"/> ###
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iskander229&layout=compact&theme=dark"/> 
 <p align="center"> 
     <b>Portfolio</b>
     <b>·</b>
