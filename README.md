@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <b>My Works</b>
+    <b>~CV</b>
     <b>·</b>
     <a href="https://www.linkedin.com/in/iskander-taniyev-0883322a9/"><b>LinkedIn</b></a>
 </div>
