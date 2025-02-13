@@ -1,5 +1,3 @@
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskander229&show_icons=true&theme=aura)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskander220&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
