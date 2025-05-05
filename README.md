@@ -4,6 +4,12 @@
 </div>
 
 <div align="center">
+    <b>·</b>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3444577119"><b>Current Project</b></a>
+    <b>·</b>
+</div>
+
+<div align="center">
     <a href="https://itzzkenn.itch.io/"<<b>Portfolio</b></a>
     <b>·</b>
     <a href="https://www.linkedin.com/in/iskander-taniyev-0883322a9/"><b>LinkedIn</b></a>
