@@ -9,6 +9,4 @@
     <b>·</b>
 </div>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/iskander-taniyev-0883322a9/"><b>LinkedIn</b></a>
-</div>
+
